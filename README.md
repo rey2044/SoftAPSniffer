@@ -1,5 +1,15 @@
 # SoftAPSniffer
 
+```txt
+  ________            ____   _____    _____  ________
+ / ___/   |  ____    / __ \ / ___/   /  _  |/ ____/|
+ \__ \    | / __ \  / / / // /__     /  |  |/ /__   | |
+ ___/ /   |/ /_/ / / /_/ / \__ \    /   __  |\___  \ | |
+ /____/    |\____/  \____/  /____/   /__/ /__/_____/ /__|
+                                                          
+         SoftAPSniffer - Capture Client Traffic
+```
+
 **SoftAPSniffer** is a powerful network tool that allows you to create a **Soft Access Point (AP)** on your Linux system while monitoring and capturing network traffic from client devices that connect to it. The tool provides a user-friendly interface for setting up the AP and offers the ability to capture key network traffic such as HTTP requests and DNS queries.
 
 ## Features
